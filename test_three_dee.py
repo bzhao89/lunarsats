@@ -9,3 +9,5 @@ def test_three_dee():
     """
     main()
     assert 1 == 2
+
+test_three_dee()
